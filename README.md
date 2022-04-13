@@ -1,2 +1,3 @@
-👋 Hi, I’m Owais haseeb
-👀 I’m interested in building machine learning models
+- 👋 Hi, I’m Owais haseeb
+- 👀 Just making way learning and developing new machine learning models
+
