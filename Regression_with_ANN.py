@@ -25,7 +25,6 @@ X=dataset.drop('PE', axis=1).values
 y=dataset['PE'].values
 
 
-
 import seaborn as sns
 
 sns.pairplot(dataset)
