@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Owais haseeb
-- 👀 Just making way learning and developing new machine learning models
+- 👀 Just making my way learning and developing new machine learning models
 
